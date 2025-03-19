@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2022,
+    "price": 25000
+  },
+  {
+    "id": 2,
+    "make": "Honda",
+    "model": "Civic",
+    "year": 2023,
+    "price": 22000
+  },
+  {
+    "id": 3,
+    "make": "Ford",
+    "model": "Mustang",
+    "year": 2021,
+    "price": 35000
+  },
+  {
+    "id": 4,
+    "make": "Tesla",
+    "model": "Model 3",
+    "year": 2023,
+    "price": 45000
+  },
+  {
+    "id": 5,
+    "make": "BMW",
+    "model": "X5",
+    "year": 2022,
+    "price": 60000
+  },
+  {
+    "id": 6,
+    "make": "Mercedes",
+    "model": "C-Class",
+    "year": 2023,
+    "price": 55000
+  },
+  {
+    "id": 8
+  }
+]
